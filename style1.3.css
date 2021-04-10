@@ -1,0 +1,278 @@
+body ,html
+{
+    overflow-x: hidden;
+    padding: 20px;
+}
+button
+{
+    margin: auto;
+}
+a
+{
+    float: right;
+    padding-right: 20px;
+    text-decoration: none;
+    font-size: 25px;
+}
+label
+{
+    font-size: 25px;
+}
+.div1
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom: 2px solid black;
+}
+.head
+{
+    text-align: center;
+}
+.p1
+{
+    border-left: 2px solid lightgrey;
+    padding-left: 10px;
+    font-style: italic;
+}
+.p2
+{
+    background-color: rgb(243, 241, 241);
+    border-radius: 10px;
+    padding-left: 15px;
+}
+a
+{
+    padding-bottom: 20px;
+}
+.div2
+{
+    display: inline-block;
+}
+.div3
+{
+    float: right;
+    padding-right: 500px;
+}
+.b1
+{
+    background-color: red;
+    color: white;
+    height: 30px;
+}
+.b2
+{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+.b3
+{
+    background-color: white;
+    color: black;
+    height: 30px;
+}
+.b4
+{
+    background-color: red;
+    color: white;
+    font-family: small;
+}
+.b5
+{
+    background-color: black;
+    color: white;
+    font-family: small;
+}
+.b6
+{
+    background-color: white;
+    color: black;
+    font-family: small;
+}
+.btn1
+{
+    margin-left: 200px;
+    margin-top: -100px;  
+}
+.btn11
+{
+    float: left;
+    width: 40%;
+}
+.btn12
+{
+    float: right;
+    width: 50%;
+}
+.btn3
+{
+    margin-left: 380px;
+    margin-top: -150px;
+}
+.btn2
+{
+    
+    padding-top: 60px;
+    padding-left: 100px;
+}
+th
+{
+    padding-right: 20px;
+}
+table
+{
+    text-align: left;
+}
+.tr,.b10
+{
+    background-color: rgb(248, 247, 247);
+    margin-right: 5px;
+}
+.b11
+{
+    background-color: red;
+    color: white;
+    height: 40px;
+    width: 70px;
+    font-family: large;
+}
+.b12
+{
+    background-color: black;
+    color: white;
+    height: 30px;
+}
+.b13
+{
+    background-color: white;
+    color: black;
+    font-family: small;
+}
+.e
+{
+    float: right;
+    padding-right: 190px;
+}
+.b9
+{
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 10px;
+}
+.div5
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+form
+{
+    width: 100%;
+}
+.in
+{
+    width: 49%;
+}
+.cat
+{
+    width: 100%;
+}
+.t
+{
+    background-color: rgb(248, 242, 242);
+}
+.img2
+{
+    width: 99.5%;
+    height: 500px;    
+    border: 2px dotted purple;
+}
+.img1
+{
+    height: 250px;
+    width: 32.8%;
+    border: 2px dotted purple;
+}
+
+
+/* start pargraph */
+.sec1
+{
+    padding-bottom: 40px;
+}
+
+.img1
+{
+   height: 500px;
+   width: 100%;
+}
+img
+{
+
+    height: 200px;
+    width: 33%;
+}
+.pag1
+{
+    margin: 20px;
+    float:left;
+    width: 80%;
+    text-align: justify;
+    text-indent: 50px;
+}
+.left21
+{
+    text-indent: 50px;
+    width: 15%;
+    height: 150px;
+    float: left;
+    padding-top: 20px;
+   /* padding-right: 15px; */
+
+}
+
+.pag2
+{
+    text-indent: 50px;
+    float: left;
+    text-align: justify;
+    width: 80%;
+    
+}
+.right12
+{
+    margin: 20px;
+    float: right;
+    height: 150px;
+    width: 15%;
+}
+.img12
+{
+    float: right;
+    width: 20%;
+    padding-left: 10px;
+}
+.li
+{   
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 20px;
+    height: 20px;
+    display: inline-block;   
+}
+footer
+{
+    width: auto;
+    height: 150px;
+    background-color: #c4bfbf;
+    text-align: center;
+    margin-top: 400px;
+}
+span
+{
+    border-right: 2px solid red;
+    padding-right: 10px;
+}
+
